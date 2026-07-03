@@ -1,6 +1,40 @@
 # Class-Resources
 A collection of resources for class. PDFs, Examples and solutions.
 
+# PDF files, Documentation and Examples (syntax, commonly used things)
+## Github, Codespaces
+- [git and GitHub lecture notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/git_github/git_github.pdf)
+- [GitHub Codespaces and Pages lecture notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/git_github/codespaces_pages.pdf)
+- [Codespaces and Pages Guide By: Nissa](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/git_github/Github_and_codespaces.pdf)
+### Resources
+- [Github Registration](https://github.com/signup)
+#### Official Github Resources
+- [Repo, branch, and pull request creation, management and resolution](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- [Getting Started with Git/Github](https://docs.github.com/en/get-started)
+- [GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started-with-codespaces)
+- [Deploying a website with Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+## Terminal, BASH, SHELL
+### Resources
+- [BASH QuickRef](https://quickref.me/bash)
+#### Official Resources
+- [GNU BASH Homepage](https://www.gnu.org/software/bash/)
+
+## C++
+### Resources
+- [CPP QuickRef](https://quickref.me/cpp)
+#### Official Resources
+- [C++ Reference](https://en.cppreference.com/w/)
+- [C++](https://cplusplus.com/)
+<!-- 
+## Language/Framework
+### Resources
+#### Official Resources
+-->
+
+# More General Resources
+- [HTML,CSS,JS and Other in W3Schools](https://www.w3schools.com/)
+- [Github Certification information](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications)
 
 # CSCAMP 25 Curriculum
 Use this to guide learning for HTML, CSS, JS, P5js, JQuery
