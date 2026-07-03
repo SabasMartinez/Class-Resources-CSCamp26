@@ -1,6 +1,12 @@
 # Class-Resources
 A collection of resources for class. PDFs, Examples and solutions.
 
+
+# CSCAMP 25 Curriculum
+Use this to guide learning for HTML, CSS, JS, P5js, JQuery
+
+<details>
+
 ## Large Assignments
 - As a larger assignment we will work on a personal page. This will be a multi-week assignment that will be built incrementally.
 Find my example below.
@@ -85,3 +91,4 @@ P5.js
 - [HTML,CSS,JS and Other in W3Schools](https://www.w3schools.com/)
 - [Github Certification information](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications)
 
+</details>
