@@ -23,6 +23,7 @@ A collection of resources for class. PDFs, Examples and solutions.
 ## C++
 ### Resources
 - [CPP QuickRef](https://quickref.me/cpp)
+- [CPP Quick Syntax Files](https://github.com/SabasMartinez/Class-Resources-CSCamp26/tree/main/example_code)
 #### Official Resources
 - [C++ Reference](https://en.cppreference.com/w/)
 - [C++](https://cplusplus.com/)
