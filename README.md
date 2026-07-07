@@ -28,6 +28,7 @@ A collection of resources for class. PDFs, Examples and solutions.
 - [C++](https://cplusplus.com/)
 ### Examples
 - [CPP Hello World!](https://github.com/SabasMartinez/Class-Resources-CSCamp26/blob/main/example_code/helloWorld.cpp)
+- [CPP Awesome Vector Example](https://github.com/SabasMartinez/Class-Resources-CSCamp26/blob/main/example_code/awesomeVectorExample.cpp)
 <!-- 
 ## Language/Framework
 ### Resources
